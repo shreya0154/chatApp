@@ -1,1 +1,0 @@
-Used React to make frontend part of this project
